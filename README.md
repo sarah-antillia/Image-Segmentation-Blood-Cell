@@ -58,8 +58,8 @@ Image-Segmentation-Blood-Cell
         │   └─valid
         │       ├─images
         │       └─masks
-        ├─test_output
-        └─test_output_merged
+        ├─mini_test_output
+        └─mini_test_output_merged
 </pre>
 
 <h2>
