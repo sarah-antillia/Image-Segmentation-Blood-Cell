@@ -1,0 +1,15 @@
+https://github.com/Deponker/Blood-cell-segmentation-dataset
+Automatic segmentation of blood cells from microscopic slides: A comparative analysis
+---
+Proposed Large Segmentation Dataset Download Link
+2656 images are avilable. 1328 Original blood cell images with 1328 corresponding ground truths.
+https://drive.google.com/file/d/1nG-ra6BPAZSTsdYCvedzCo-JLD7jdH71/view?usp=share_link
+Citation
+title={Automatic segmentation of blood cells from microscopic slides: a comparative analysis},
+author={Depto, Deponker Sarker and Rahman, Shazidur and Hosen, Md Mekayel and Akter, Mst Shapna and Reme, Tamanna Rahman and Rahman, Aimon and Zunair, Hasib and Rahman, M Sohel and Mahdy, MRC},
+journal={Tissue and Cell},
+volume={73},
+pages={101653},
+year={2021},
+publisher={Elsevier}
+}
